@@ -13,3 +13,4 @@ Las ventajas de la computación en la nube incluyen un menor costo, ya que no se
 En resumen, la computación en la nube es una herramienta tecnológica esencial en la actualidad que ofrece flexibilidad, eficiencia y accesibilidad. Su adecuada comprensión permite aprovechar sus servicios, entender sus beneficios y ser conscientes de los riesgos que implica su implementación.
 
 ![Mapa](IMG-20251118-WA0043.jpg)
+
